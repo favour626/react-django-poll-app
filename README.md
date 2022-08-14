@@ -1,6 +1,6 @@
 # django-react-poll
 
-A simple dockerized poll app built with Django 2.0 and React
+A simple dockerized poll app built with Django and React
 
 
 ### Run with docker
@@ -20,7 +20,7 @@ Then, open `http://localhost/` in the browser.
 
 ### Used tech stack
 
-- Backend: Django 2.0 with Django Rest Framework
+- Backend: Django with Django Rest Framework
 - Frontend: React.js with Material-UI
 - Database: PostgreSQL
 
